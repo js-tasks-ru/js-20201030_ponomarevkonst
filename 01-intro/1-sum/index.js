@@ -4,6 +4,6 @@
  * @param {number} n index
  * @returns {number}
  */
-export default function sum(m, n) {
-
+export default function sum(m, n) { 
+  return m + n;
 }
