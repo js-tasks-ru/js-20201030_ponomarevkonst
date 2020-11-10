@@ -5,6 +5,7 @@ describe('objects-arrays-intro-to-testing/create-getter', () => {
     const obj = {
       category: {
         title: 'Goods',
+        
         foo: undefined
       }
     };
